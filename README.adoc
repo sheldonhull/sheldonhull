@@ -4,6 +4,8 @@ Howdy! 👋
 
 I have over 9 years of experience working with database performance tuning & design. With my extensive exposure to AWS, SQL Server, .NET, DevOps/SRE practices, and passion for well-designed code, I bring a passion for building resilient systems.
 
+image:https://github-readme-stats.vercel.app/api?username=sheldonhull[title="Sheldon Hull's github stats"]
+
 == survey says 
 
 * 🔭  I’m currently working on: AWS and minimizing the amount of chaos I generate
@@ -26,3 +28,7 @@ I have over 9 years of experience working with database performance tuning & des
 * _Blog:_ As time permits, sheldonhull.com, though most projects I've done are not public 
 * _Terminal:_ macOS Iterm2, Windows 10 - The newer Windows Terminal. Starship for prompt.
 * _If I was an emoji I'd be:_ 🌮🌮🌮
+
+
+credit:
+* link:https://github.com/anuraghazra/github-readme-stats[github-readme-stats]
