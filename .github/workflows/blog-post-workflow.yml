@@ -13,5 +13,6 @@ jobs:
         with:
           feed_list: "https://www.sheldonhull.com/index.xml,https://www.sheldonhull.com/microblog/index.xml,https://dev.to/feed/sheldonhull,https://stackoverflow.com/feeds/68698/sheldonh"
           max_post_count: 15
-          template: '| $randomEmoji | [$title]($url) |'
+          template: '| $randomEmoji $date | [$title]($url) | $newline'
           tag_post_pre_newline: true
+          date_format: UTC:ddd mmm
