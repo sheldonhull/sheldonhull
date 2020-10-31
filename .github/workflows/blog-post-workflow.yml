@@ -13,5 +13,5 @@ jobs:
         with:
           feed_list: "https://www.sheldonhull.com/index.xml,https://www.sheldonhull.com/microblog/index.xml,https://dev.to/feed/sheldonhull,https://stackoverflow.com/feeds/sheldonh/68698"
           max_post_count: 15
-          
+          template: '|$randomEmoji|[$title]($url)|'
           
