@@ -3,6 +3,7 @@ on:
   schedule: # Run workflow automatically
     - cron: '0 */8 * * *' # At minute 0 past every 8th hour. https://crontab.guru/#0_*/8_*_*_*
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  push:
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -13,6 +14,7 @@ jobs:
         with:
           feed_list: "https://www.sheldonhull.com/index.xml,https://www.sheldonhull.com/microblog/index.xml,https://dev.to/feed/sheldonhull,https://stackoverflow.com/feeds/68698/sheldonh"
           max_post_count: 15
-          template: '| $randomEmoji $date | [$title]($url) | $newline'
+          template: '| $date | [$title]($url) | $newline'
           tag_post_pre_newline: true
-          date_format: UTC:ddd mmm
+          date_format: UTC:yyyy mm
+          title_max_length: 75
