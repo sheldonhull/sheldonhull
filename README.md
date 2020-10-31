@@ -10,23 +10,21 @@ Howdy! 👋
 
 |When|Title|
 |---|---|<!-- BLOG-POST-LIST:START -->
-| $randomEmoji Sat Oct | [Quick Start to Using Influxdb on Macos](https://www.sheldonhull.com/blog/quick-start-to-using-influxdb-on-macos/) | 
-| $randomEmoji Fri Oct | [go](https://www.sheldonhull.com/docs/go/) | 
-| $randomEmoji Fri Oct | [shell](https://www.sheldonhull.com/docs/shell/) | 
-| $randomEmoji Tue Oct | [Day 13 of 100 progress Worked with type asserts in my efforts to generate json collection from the parsed front matter. links Handling …](https://www.sheldonhull.com/microblog/go-r1-day-13/) | 
-| $randomEmoji Wed Oct | [My morning. Explaining set and intersect theory basics to my 10 year old with Minecraft gamer tags. Trying to justify the need to know this, …](https://www.sheldonhull.com/microblog/set-theory-basics-in-the-eyes-of-10-year-old/) | 
-| $randomEmoji Fri Oct | [I&rsquo;ve been enjoying Codespaces local development workflow with Docker containers.
-I&rsquo;m using macOS and on Docker experimental …](https://www.sheldonhull.com/microblog/ways-to-improve-codespaces-local-docker-experience/) | 
-| $randomEmoji Thu Oct | [I took a quick step back when too many parentheses started showing up. If you question the complexity of your quick snippet, you are …](https://www.sheldonhull.com/microblog/keep-the-snippet-simple/) | 
-| $randomEmoji Sun Sep | [Day 12 of 100 progress Worked on Algolia index project to do atomic updates on search index on my blog. Worked with json, structs, ranges, …](https://www.sheldonhull.com/microblog/go-r1-day-12/) | 
-| $randomEmoji Sat Sep | [Day 11 of 100 progress Pluralsight Go material and some reading. Start Learning Go Web Development course by Jon Calhoun. Created repo and …](https://www.sheldonhull.com/microblog/go-r1-day-11/) | 
-| $randomEmoji Thu Sep | [Beat Deadcells with 3 cells active. Uninstalled. There is no way I&rsquo;d find any pleasure in life trying to do more. This game is an …](https://www.sheldonhull.com/microblog/deadcells/) | 
-| $randomEmoji Thu Sep | [A quick fix to improve your debugging of remote commands in AWS is to install cw.
-With a quick install, you can run a command like: cw tail …](https://www.sheldonhull.com/microblog/improve-your-cloudwatch-debugging-experience-with-cw/) | 
-| $randomEmoji Tue Sep | [Checkout delta for a much-improved git diff experience. I typically use VSCode or a GUI based editor because I find the diff view pretty …](https://www.sheldonhull.com/microblog/delta-improves-the-git-diff-experience/) | 
-| $randomEmoji Mon Sep | [Day 10 of 100 progress Experimented with CLI tool using go-prompt Customized initial options OS independent call to get user home …](https://www.sheldonhull.com/microblog/go-r1-day-10/) | 
-| $randomEmoji Sat Sep | [Day 9 of 100 progress Watched some Pluralsight and other material on testing with Go](https://www.sheldonhull.com/microblog/go-r1-day-9/) | 
-| $randomEmoji Thu Sep | [Day 8 of 100 progress Worked through Algorithms in Go: Determine if a number is in a list Passed the tests without needing to find the …](https://www.sheldonhull.com/microblog/go-r1-day-8/) | 
+| 2020 10 | [Quick Start to Using Influxdb on Macos](https://www.sheldonhull.com/blog/quick-start-to-using-influxdb-on-macos/) | 
+| 2020 10 | [go](https://www.sheldonhull.com/docs/go/) | 
+| 2020 10 | [shell](https://www.sheldonhull.com/docs/shell/) | 
+| 2020 10 | [Day 13 of 100 progress Worked with type asserts in my efforts to generate j...](https://www.sheldonhull.com/microblog/go-r1-day-13/) | 
+| 2020 10 | [My morning. Explaining set and intersect theory basics to my 10 year old wi...](https://www.sheldonhull.com/microblog/set-theory-basics-in-the-eyes-of-10-year-old/) | 
+| 2020 10 | [I&rsquo;ve been enjoying Codespaces local development workflow with Docker ...](https://www.sheldonhull.com/microblog/ways-to-improve-codespaces-local-docker-experience/) | 
+| 2020 10 | [I took a quick step back when too many parentheses started showing up. If y...](https://www.sheldonhull.com/microblog/keep-the-snippet-simple/) | 
+| 2020 09 | [Day 12 of 100 progress Worked on Algolia index project to do atomic updates...](https://www.sheldonhull.com/microblog/go-r1-day-12/) | 
+| 2020 09 | [Day 11 of 100 progress Pluralsight Go material and some reading. Start Lear...](https://www.sheldonhull.com/microblog/go-r1-day-11/) | 
+| 2020 09 | [Beat Deadcells with 3 cells active. Uninstalled. There is no way I&rsquo;d ...](https://www.sheldonhull.com/microblog/deadcells/) | 
+| 2020 09 | [A quick fix to improve your debugging of remote commands in AWS is to insta...](https://www.sheldonhull.com/microblog/improve-your-cloudwatch-debugging-experience-with-cw/) | 
+| 2020 09 | [Checkout delta for a much-improved git diff experience. I typically use VSC...](https://www.sheldonhull.com/microblog/delta-improves-the-git-diff-experience/) | 
+| 2020 09 | [Day 10 of 100 progress Experimented with CLI tool using go-prompt Customize...](https://www.sheldonhull.com/microblog/go-r1-day-10/) | 
+| 2020 09 | [Day 9 of 100 progress Watched some Pluralsight and other material on testin...](https://www.sheldonhull.com/microblog/go-r1-day-9/) | 
+| 2020 09 | [Day 8 of 100 progress Worked through Algorithms in Go: Determine if a numbe...](https://www.sheldonhull.com/microblog/go-r1-day-8/) | 
 
 <!-- BLOG-POST-LIST:END -->
 
