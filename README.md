@@ -28,6 +28,7 @@ Howdy! 👋
 <tr><td>2020 09</td><td>[Checkout delta for a much-improved git diff experience. I typically use VSC...](https://www.sheldonhull.com/microblog/delta-improves-the-git-diff-experience/)</td></tr>
 <tr><td>2020 09</td><td>[Day 10 of 100 progress Experimented with CLI tool using go-prompt Customize...](https://www.sheldonhull.com/microblog/go-r1-day-10/)</td></tr>
 <tr><td>2020 09</td><td>[Day 9 of 100 progress Watched some Pluralsight and other material on testin...](https://www.sheldonhull.com/microblog/go-r1-day-9/)</td></tr>
+
 <!-- BLOG-POST-LIST:END -->
 </table>
 
