@@ -6,6 +6,8 @@ Howdy! 👋
 
 ## Blog posts
 
+![Latest blog post workflow](https://github.com/sheldonhull/sheldonhull/workflows/Latest%20blog%20post%20workflow/badge.svg)
+
 |Hmm|Title|
 |---|---|
 <!-- BLOG-POST-LIST:START -->|$randomEmoji|[Quick Start to Using Influxdb on Macos](https://www.sheldonhull.com/blog/quick-start-to-using-influxdb-on-macos/)||$randomEmoji|[go](https://www.sheldonhull.com/docs/go/)||$randomEmoji|[shell](https://www.sheldonhull.com/docs/shell/)||$randomEmoji|[Day 13 of 100 progress Worked with type asserts in my efforts to generate json collection from the parsed front matter. links Handling …](https://www.sheldonhull.com/microblog/go-r1-day-13/)||$randomEmoji|[My morning. Explaining set and intersect theory basics to my 10 year old with Minecraft gamer tags. Trying to justify the need to know this, …](https://www.sheldonhull.com/microblog/set-theory-basics-in-the-eyes-of-10-year-old/)||$randomEmoji|[I&rsquo;ve been enjoying Codespaces local development workflow with Docker containers.
