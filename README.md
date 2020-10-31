@@ -13,21 +13,21 @@ Howdy! 👋
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
-<tr><td>2020 10</td><td>[Quick Start to Using Influxdb on Macos](https://www.sheldonhull.com/blog/quick-start-to-using-influxdb-on-macos/)</td></tr>
-<tr><td>2020 10</td><td>[go](https://www.sheldonhull.com/docs/go/)</td></tr>
-<tr><td>2020 10</td><td>[shell](https://www.sheldonhull.com/docs/shell/)</td></tr>
-<tr><td>2020 10</td><td>[Day 13 of 100 progress Worked with type asserts in my efforts to generate j...](https://www.sheldonhull.com/microblog/go-r1-day-13/)</td></tr>
-<tr><td>2020 10</td><td>[My morning. Explaining set and intersect theory basics to my 10 year old wi...](https://www.sheldonhull.com/microblog/set-theory-basics-in-the-eyes-of-10-year-old/)</td></tr>
-<tr><td>2020 10</td><td>[Answer by SheldonH for Execute managed AWS Config rule on demand via SDK](https://stackoverflow.com/questions/64293409/execute-managed-aws-config-rule-on-demand-via-sdk/64340044#64340044)</td></tr>
-<tr><td>2020 10</td><td>[I&rsquo;ve been enjoying Codespaces local development workflow with Docker ...](https://www.sheldonhull.com/microblog/ways-to-improve-codespaces-local-docker-experience/)</td></tr>
-<tr><td>2020 10</td><td>[I took a quick step back when too many parentheses started showing up. If y...](https://www.sheldonhull.com/microblog/keep-the-snippet-simple/)</td></tr>
-<tr><td>2020 09</td><td>[Day 12 of 100 progress Worked on Algolia index project to do atomic updates...](https://www.sheldonhull.com/microblog/go-r1-day-12/)</td></tr>
-<tr><td>2020 09</td><td>[Day 11 of 100 progress Pluralsight Go material and some reading. Start Lear...](https://www.sheldonhull.com/microblog/go-r1-day-11/)</td></tr>
-<tr><td>2020 09</td><td>[Beat Deadcells with 3 cells active. Uninstalled. There is no way I&rsquo;d ...](https://www.sheldonhull.com/microblog/deadcells/)</td></tr>
-<tr><td>2020 09</td><td>[A quick fix to improve your debugging of remote commands in AWS is to insta...](https://www.sheldonhull.com/microblog/improve-your-cloudwatch-debugging-experience-with-cw/)</td></tr>
-<tr><td>2020 09</td><td>[Checkout delta for a much-improved git diff experience. I typically use VSC...](https://www.sheldonhull.com/microblog/delta-improves-the-git-diff-experience/)</td></tr>
-<tr><td>2020 09</td><td>[Day 10 of 100 progress Experimented with CLI tool using go-prompt Customize...](https://www.sheldonhull.com/microblog/go-r1-day-10/)</td></tr>
-<tr><td>2020 09</td><td>[Day 9 of 100 progress Watched some Pluralsight and other material on testin...](https://www.sheldonhull.com/microblog/go-r1-day-9/)</td></tr>
+<tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/blog/quick-start-to-using-influxdb-on-macos/">Quick Start to Using Influxdb on Macos</a></td></tr>
+<tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/docs/go/">go</a></td></tr>
+<tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/docs/shell/">shell</a></td></tr>
+<tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-13/">Day 13 of 100 progress Worked with type asserts in my efforts to generate j...</a></td></tr>
+<tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/microblog/set-theory-basics-in-the-eyes-of-10-year-old/">My morning. Explaining set and intersect theory basics to my 10 year old wi...</a></td></tr>
+<tr><td>2020-10</td><td><a href="https://stackoverflow.com/questions/64293409/execute-managed-aws-config-rule-on-demand-via-sdk/64340044#64340044">Answer by SheldonH for Execute managed AWS Config rule on demand via SDK</a></td></tr>
+<tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/microblog/ways-to-improve-codespaces-local-docker-experience/">I&rsquo;ve been enjoying Codespaces local development workflow with Docker ...</a></td></tr>
+<tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/microblog/keep-the-snippet-simple/">I took a quick step back when too many parentheses started showing up. If y...</a></td></tr>
+<tr><td>2020-09</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-12/">Day 12 of 100 progress Worked on Algolia index project to do atomic updates...</a></td></tr>
+<tr><td>2020-09</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-11/">Day 11 of 100 progress Pluralsight Go material and some reading. Start Lear...</a></td></tr>
+<tr><td>2020-09</td><td><a href="https://www.sheldonhull.com/microblog/deadcells/">Beat Deadcells with 3 cells active. Uninstalled. There is no way I&rsquo;d ...</a></td></tr>
+<tr><td>2020-09</td><td><a href="https://www.sheldonhull.com/microblog/improve-your-cloudwatch-debugging-experience-with-cw/">A quick fix to improve your debugging of remote commands in AWS is to insta...</a></td></tr>
+<tr><td>2020-09</td><td><a href="https://www.sheldonhull.com/microblog/delta-improves-the-git-diff-experience/">Checkout delta for a much-improved git diff experience. I typically use VSC...</a></td></tr>
+<tr><td>2020-09</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-10/">Day 10 of 100 progress Experimented with CLI tool using go-prompt Customize...</a></td></tr>
+<tr><td>2020-09</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-9/">Day 9 of 100 progress Watched some Pluralsight and other material on testin...</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
