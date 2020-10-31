@@ -15,6 +15,7 @@ Howdy! 👋
 <tr><td>2020 10</td><td>[shell](https://www.sheldonhull.com/docs/shell/)</td></tr>
 <tr><td>2020 10</td><td>[Day 13 of 100 progress Worked with type asserts in my efforts to generate j...](https://www.sheldonhull.com/microblog/go-r1-day-13/)</td></tr>
 <tr><td>2020 10</td><td>[My morning. Explaining set and intersect theory basics to my 10 year old wi...](https://www.sheldonhull.com/microblog/set-theory-basics-in-the-eyes-of-10-year-old/)</td></tr>
+<tr><td>2020 10</td><td>[Answer by SheldonH for Execute managed AWS Config rule on demand via SDK](https://stackoverflow.com/questions/64293409/execute-managed-aws-config-rule-on-demand-via-sdk/64340044#64340044)</td></tr>
 <tr><td>2020 10</td><td>[I&rsquo;ve been enjoying Codespaces local development workflow with Docker ...](https://www.sheldonhull.com/microblog/ways-to-improve-codespaces-local-docker-experience/)</td></tr>
 <tr><td>2020 10</td><td>[I took a quick step back when too many parentheses started showing up. If y...](https://www.sheldonhull.com/microblog/keep-the-snippet-simple/)</td></tr>
 <tr><td>2020 09</td><td>[Day 12 of 100 progress Worked on Algolia index project to do atomic updates...](https://www.sheldonhull.com/microblog/go-r1-day-12/)</td></tr>
@@ -24,7 +25,6 @@ Howdy! 👋
 <tr><td>2020 09</td><td>[Checkout delta for a much-improved git diff experience. I typically use VSC...](https://www.sheldonhull.com/microblog/delta-improves-the-git-diff-experience/)</td></tr>
 <tr><td>2020 09</td><td>[Day 10 of 100 progress Experimented with CLI tool using go-prompt Customize...](https://www.sheldonhull.com/microblog/go-r1-day-10/)</td></tr>
 <tr><td>2020 09</td><td>[Day 9 of 100 progress Watched some Pluralsight and other material on testin...](https://www.sheldonhull.com/microblog/go-r1-day-9/)</td></tr>
-<tr><td>2020 09</td><td>[Day 8 of 100 progress Worked through Algorithms in Go: Determine if a numbe...](https://www.sheldonhull.com/microblog/go-r1-day-8/)</td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 
