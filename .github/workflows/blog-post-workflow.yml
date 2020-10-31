@@ -1,0 +1,16 @@
+name: Latest blog post workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 */8 * * *' # At minute 0 past every 8th hour. https://crontab.guru/#0_*/8_*_*_*
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.sheldonhull.com/index.xml,https://www.sheldonhull.com/microblog/index.xml,https://dev.to/feed/sheldonhull,https://stackoverflow.com/users/68698/sheldonh"
+          max_post_count: 15
+          
