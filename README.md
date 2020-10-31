@@ -7,9 +7,12 @@ Howdy! 👋
 ## Blog posts
 
 ![Latest blog post workflow](https://github.com/sheldonhull/sheldonhull/workflows/Latest%20blog%20post%20workflow/badge.svg)
-
-|When|Title|
-|---|---|<!-- BLOG-POST-LIST:START -->
+<table style="width:100%">
+  <tr>
+    <th>date</th>
+    <th>update</th>
+  </tr>
+<!-- BLOG-POST-LIST:START -->
 <tr><td>2020 10</td><td>[Quick Start to Using Influxdb on Macos](https://www.sheldonhull.com/blog/quick-start-to-using-influxdb-on-macos/)</td></tr>
 <tr><td>2020 10</td><td>[go](https://www.sheldonhull.com/docs/go/)</td></tr>
 <tr><td>2020 10</td><td>[shell](https://www.sheldonhull.com/docs/shell/)</td></tr>
@@ -25,8 +28,8 @@ Howdy! 👋
 <tr><td>2020 09</td><td>[Checkout delta for a much-improved git diff experience. I typically use VSC...](https://www.sheldonhull.com/microblog/delta-improves-the-git-diff-experience/)</td></tr>
 <tr><td>2020 09</td><td>[Day 10 of 100 progress Experimented with CLI tool using go-prompt Customize...](https://www.sheldonhull.com/microblog/go-r1-day-10/)</td></tr>
 <tr><td>2020 09</td><td>[Day 9 of 100 progress Watched some Pluralsight and other material on testin...](https://www.sheldonhull.com/microblog/go-r1-day-9/)</td></tr>
-
 <!-- BLOG-POST-LIST:END -->
+</table>
 
 ## survey says 
 
