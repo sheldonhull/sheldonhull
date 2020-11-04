@@ -13,6 +13,7 @@ Howdy! 👋
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/blog/improving-local-development-workflow-with-go-task/">Improving Local Development Workflow With Go Task</a></td></tr>
 <tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/microblog/unable-to-resolve-provider-aws-with-terraform-013/">I couldn&rsquo;t get past this for a while when I accidentally stumbled acr...</a></td></tr>
 <tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/blog/quick-start-to-using-influxdb-on-macos/">Quick Start to Using Influxdb on Macos</a></td></tr>
 <tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/docs/go/">go</a></td></tr>
@@ -27,7 +28,6 @@ Howdy! 👋
 <tr><td>2020-09</td><td><a href="https://www.sheldonhull.com/microblog/deadcells/">Beat Deadcells with 3 cells active. Uninstalled. There is no way I&rsquo;d ...</a></td></tr>
 <tr><td>2020-09</td><td><a href="https://www.sheldonhull.com/microblog/improve-your-cloudwatch-debugging-experience-with-cw/">A quick fix to improve your debugging of remote commands in AWS is to insta...</a></td></tr>
 <tr><td>2020-09</td><td><a href="https://www.sheldonhull.com/microblog/delta-improves-the-git-diff-experience/">Checkout delta for a much-improved git diff experience. I typically use VSC...</a></td></tr>
-<tr><td>2020-09</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-10/">Day 10 of 100 progress Experimented with CLI tool using go-prompt Customize...</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
