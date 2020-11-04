@@ -2,7 +2,7 @@
 
 Howdy! 👋 
 
-![Sheldon Hull's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheldonhull)
+![Sheldon Hull's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheldonhull&theme=tokyonight)
 
 ## Blog posts
 
