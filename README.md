@@ -14,9 +14,12 @@ Howdy! 👋
   </tr>
 <!-- BLOG-POST-LIST:START -->
 <tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/blog/consider-the-benefits-of-powershell-for-developer-workflows/">Consider the Benefits of Powershell for Developer Workflows</a></td></tr>
+<tr><td>2020-11</td><td><a href="https://dev.to/sheldonhull/consider-the-benefits-of-powershell-for-developer-workflows-1o7i">Consider the Benefits of Powershell for Developer Workflows</a></td></tr>
 <tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/blog/improving-local-development-workflow-with-go-task/">Improving Local Development Workflow With Go Task</a></td></tr>
+<tr><td>2020-11</td><td><a href="https://dev.to/sheldonhull/improving-local-development-workflow-with-go-task-4id2">Improving Local Development Workflow With Go Task</a></td></tr>
 <tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/microblog/unable-to-resolve-provider-aws-with-terraform-013/">I couldn&rsquo;t get past this for a while when I accidentally stumbled acr...</a></td></tr>
 <tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/blog/quick-start-to-using-influxdb-on-macos/">Quick Start to Using Influxdb on Macos</a></td></tr>
+<tr><td>2020-10</td><td><a href="https://dev.to/sheldonhull/quick-start-to-using-influxdb-on-macos-1pkm">Quick Start to Using Influxdb on Macos</a></td></tr>
 <tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/docs/go/">go</a></td></tr>
 <tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/docs/shell/">shell</a></td></tr>
 <tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-13/">Day 13 of 100 progress Worked with type asserts in my efforts to generate j...</a></td></tr>
@@ -25,9 +28,6 @@ Howdy! 👋
 <tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/microblog/ways-to-improve-codespaces-local-docker-experience/">I&rsquo;ve been enjoying Codespaces local development workflow with Docker ...</a></td></tr>
 <tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/microblog/keep-the-snippet-simple/">I took a quick step back when too many parentheses started showing up. If y...</a></td></tr>
 <tr><td>2020-09</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-12/">Day 12 of 100 progress Worked on Algolia index project to do atomic updates...</a></td></tr>
-<tr><td>2020-09</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-11/">Day 11 of 100 progress Pluralsight Go material and some reading. Start Lear...</a></td></tr>
-<tr><td>2020-09</td><td><a href="https://www.sheldonhull.com/microblog/deadcells/">Beat Deadcells with 3 cells active. Uninstalled. There is no way I&rsquo;d ...</a></td></tr>
-<tr><td>2020-09</td><td><a href="https://www.sheldonhull.com/microblog/improve-your-cloudwatch-debugging-experience-with-cw/">A quick fix to improve your debugging of remote commands in AWS is to insta...</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
