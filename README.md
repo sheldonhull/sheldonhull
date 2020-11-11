@@ -13,6 +13,7 @@ Howdy! 👋
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-14/">Day 14 of 100 progress Migrated my new aws lambda logger from zap to zerolo...</a></td></tr>
 <tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/blog/consider-the-benefits-of-powershell-for-developer-workflows/">Consider the Benefits of Powershell for Developer Workflows</a></td></tr>
 <tr><td>2020-11</td><td><a href="https://dev.to/sheldonhull/consider-the-benefits-of-powershell-for-developer-workflows-1o7i">Consider the Benefits of Powershell for Developer Workflows</a></td></tr>
 <tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/blog/improving-local-development-workflow-with-go-task/">Improving Local Development Workflow With Go Task</a></td></tr>
@@ -27,7 +28,6 @@ Howdy! 👋
 <tr><td>2020-10</td><td><a href="https://stackoverflow.com/questions/64293409/execute-managed-aws-config-rule-on-demand-via-sdk/64340044#64340044">Answer by SheldonH for Execute managed AWS Config rule on demand via SDK</a></td></tr>
 <tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/microblog/ways-to-improve-codespaces-local-docker-experience/">I&rsquo;ve been enjoying Codespaces local development workflow with Docker ...</a></td></tr>
 <tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/microblog/keep-the-snippet-simple/">I took a quick step back when too many parentheses started showing up. If y...</a></td></tr>
-<tr><td>2020-09</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-12/">Day 12 of 100 progress Worked on Algolia index project to do atomic updates...</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
