@@ -27,7 +27,7 @@ Howdy! 👋
 <tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-13/">Day 13 of 100 progress Worked with type asserts in my efforts to generate j...</a></td></tr>
 <tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/microblog/set-theory-basics-in-the-eyes-of-10-year-old/">My morning. Explaining set and intersect theory basics to my 10 year old wi...</a></td></tr>
 <tr><td>2020-10</td><td><a href="https://stackoverflow.com/questions/64293409/execute-managed-aws-config-rule-on-demand-via-sdk/64340044#64340044">Answer by SheldonH for Execute managed AWS Config rule on demand via SDK</a></td></tr>
-<tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/microblog/ways-to-improve-codespaces-local-docker-experience/">I&rsquo;ve been enjoying Codespaces local development workflow with Docker ...</a></td></tr>
+<tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/microblog/ways-to-improve-codespaces-local-docker-experience/">I&rsquo;ve been enjoying Codespaces local development workflow with Docker...</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
