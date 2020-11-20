@@ -16,6 +16,7 @@ Howdy! 👋
 <tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-17/">Day 17 of 100 progress reviewed adding excel conversion to cli shelved this...</a></td></tr>
 <tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-16/">Day 16 of 100 progress refactored AWS SDK call to export a named file using...</a></td></tr>
 <tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/blog/filtering-results-in-go/">Filtering Results in Go</a></td></tr>
+<tr><td>2020-11</td><td><a href="https://dev.to/sheldonhull/filtering-results-in-go-4egh">Filtering Results in Go</a></td></tr>
 <tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-15/">Day 15 of 100 progress figured out scope issues with pointer and struct Use...</a></td></tr>
 <tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-14/">Day 14 of 100 progress built golang function with aws-sdk that returned ec2...</a></td></tr>
 <tr><td>2020-11</td><td><a href="https://dev.to/sheldonhull/go-r1-day-14-4d1h">Go R1 Day 14</a></td></tr>
@@ -27,7 +28,6 @@ Howdy! 👋
 <tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/microblog/unable-to-resolve-provider-aws-with-terraform-013/">I couldn&rsquo;t get past this for a while when I accidentally stumbled acr...</a></td></tr>
 <tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/blog/quick-start-to-using-influxdb-on-macos/">Quick Start to Using Influxdb on Macos</a></td></tr>
 <tr><td>2020-10</td><td><a href="https://dev.to/sheldonhull/quick-start-to-using-influxdb-on-macos-1pkm">Quick Start to Using Influxdb on Macos</a></td></tr>
-<tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/docs/go/">go</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
