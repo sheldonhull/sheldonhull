@@ -13,6 +13,7 @@ Howdy! 👋
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/microblog/leave-me-alone/">Free Means You Are the Product Over time, I&rsquo;ve begun to look at produ...</a></td></tr>
 <tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-17/">Day 17 of 100 progress reviewed adding excel conversion to cli shelved this...</a></td></tr>
 <tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-16/">Day 16 of 100 progress refactored AWS SDK call to export a named file using...</a></td></tr>
 <tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/blog/filtering-results-in-go/">Filtering Results in Go</a></td></tr>
@@ -27,7 +28,6 @@ Howdy! 👋
 <tr><td>2020-11</td><td><a href="https://dev.to/sheldonhull/improving-local-development-workflow-with-go-task-4id2">Improving Local Development Workflow With Go Task</a></td></tr>
 <tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/microblog/unable-to-resolve-provider-aws-with-terraform-013/">I couldn&rsquo;t get past this for a while when I accidentally stumbled acr...</a></td></tr>
 <tr><td>2020-10</td><td><a href="https://www.sheldonhull.com/blog/quick-start-to-using-influxdb-on-macos/">Quick Start to Using Influxdb on Macos</a></td></tr>
-<tr><td>2020-10</td><td><a href="https://dev.to/sheldonhull/quick-start-to-using-influxdb-on-macos-1pkm">Quick Start to Using Influxdb on Macos</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
