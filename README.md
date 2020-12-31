@@ -13,6 +13,7 @@ Howdy! 👋
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/blog/experiments-with-go-arrays-and-slices/">Experiments With Go Arrays and Slices</a></td></tr>
 <tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/microblog/sql-server-meets-aws-systems-manager/">Excited. Have a new solution in the works to deploy Ola Hallengren via SSM...</a></td></tr>
 <tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/blog/using-aws-sdk-with-go-for-ec2-ami-metrics/">Using AWS SDK With Go for EC2 AMI Metrics</a></td></tr>
 <tr><td>2020-12</td><td><a href="https://dev.to/sheldonhull/using-aws-sdk-with-go-for-ec2-ami-metrics-49mn">Using Aws Sdk With Go for Ec2 Ami Metrics</a></td></tr>
@@ -27,7 +28,6 @@ Howdy! 👋
 <tr><td>2020-11</td><td><a href="https://dev.to/sheldonhull/go-r1-day-14-4d1h">Go R1 Day 14</a></td></tr>
 <tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-14/">Day 14 of 100 progress Migrated my new aws lambda logger from zap to zerolo...</a></td></tr>
 <tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/blog/consider-the-benefits-of-powershell-for-developer-workflows/">Consider the Benefits of Powershell for Developer Workflows</a></td></tr>
-<tr><td>2020-11</td><td><a href="https://dev.to/sheldonhull/consider-the-benefits-of-powershell-for-developer-workflows-1o7i">Consider the Benefits of Powershell for Developer Workflows</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
