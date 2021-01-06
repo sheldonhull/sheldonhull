@@ -14,6 +14,11 @@ Howdy! 👋
   </tr>
 <!-- BLOG-POST-LIST:START -->
 <tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/blog/experiments-with-go-arrays-and-slices/">Experiments With Go Arrays and Slices</a></td></tr>
+<tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-22/">Day 22 of 100 progress Using Dash, I read through much of the language spec...</a></td></tr>
+<tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-21/">Day 21 of 100 progress Signed up for exercism.io, which is a pretty great w...</a></td></tr>
+<tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-20/">Day 20 of 100 progress Hackerrank challenge &ldquo;Bubble Sort&rdquo;</a></td></tr>
+<tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-19/">Day 19 of 100 progress Hackerrank challenge &ldquo;Counting Valleys&rdquo;</a></td></tr>
+<tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-18/">Day 18 of 100 progress Hackerrank challenge &ldquo;Sales by Match&rdquo;</a></td></tr>
 <tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/microblog/sql-server-meets-aws-systems-manager/">Excited. Have a new solution in the works to deploy Ola Hallengren via SSM...</a></td></tr>
 <tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/blog/using-aws-sdk-with-go-for-ec2-ami-metrics/">Using AWS SDK With Go for EC2 AMI Metrics</a></td></tr>
 <tr><td>2020-12</td><td><a href="https://dev.to/sheldonhull/using-aws-sdk-with-go-for-ec2-ami-metrics-49mn">Using Aws Sdk With Go for Ec2 Ami Metrics</a></td></tr>
@@ -23,11 +28,6 @@ Howdy! 👋
 <tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-16/">Day 16 of 100 progress refactored AWS SDK call to export a named file using...</a></td></tr>
 <tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/blog/filtering-results-in-go/">Filtering Results in Go</a></td></tr>
 <tr><td>2020-11</td><td><a href="https://dev.to/sheldonhull/filtering-results-in-go-4egh">Filtering Results in Go</a></td></tr>
-<tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-15/">Day 15 of 100 progress figured out scope issues with pointer and struct Use...</a></td></tr>
-<tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-14/">Day 14 of 100 progress built golang function with aws-sdk that returned ec2...</a></td></tr>
-<tr><td>2020-11</td><td><a href="https://dev.to/sheldonhull/go-r1-day-14-4d1h">Go R1 Day 14</a></td></tr>
-<tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-14/">Day 14 of 100 progress Migrated my new aws lambda logger from zap to zerolo...</a></td></tr>
-<tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/blog/consider-the-benefits-of-powershell-for-developer-workflows/">Consider the Benefits of Powershell for Developer Workflows</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
