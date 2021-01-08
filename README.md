@@ -13,6 +13,7 @@ Howdy! 👋
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-24/">Day 24 of 100 progress Used glamour to render some nice console output. For...</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-23/">Day 23 of 100 progress Used Viper to load configuration for a CLI tool. Ran...</a></td></tr>
 <tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/blog/experiments-with-go-arrays-and-slices/">Experiments With Go Arrays and Slices</a></td></tr>
 <tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-22/">Day 22 of 100 progress Using Dash, I read through much of the language spec...</a></td></tr>
@@ -27,7 +28,6 @@ Howdy! 👋
 <tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/microblog/leave-me-alone/">Free Means You Are the Product Over time, I&rsquo;ve begun to look at produ...</a></td></tr>
 <tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-17/">Day 17 of 100 progress reviewed adding excel conversion to cli shelved this...</a></td></tr>
 <tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-16/">Day 16 of 100 progress refactored AWS SDK call to export a named file using...</a></td></tr>
-<tr><td>2020-11</td><td><a href="https://www.sheldonhull.com/blog/filtering-results-in-go/">Filtering Results in Go</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
