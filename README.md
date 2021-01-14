@@ -13,6 +13,7 @@ Howdy! 👋
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/leverage-renovate-for-easy-dependency-updates/">Renovate is a great tool to know about. For Go, you can keep modules update...</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-26/">Progress Evaluated gorm usage best practices with Slack Gopher community. O...</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/remove-chrome-autocomplete-suggestion/">Do you have a Chrome suggestion for a domain, url, or specific site locatio...</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-25/">Day 25 of 100 progress Worked with Gorm, my first experience with ORM based...</a></td></tr>
@@ -27,7 +28,6 @@ Howdy! 👋
 <tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/microblog/sql-server-meets-aws-systems-manager/">Excited. Have a new solution in the works to deploy Ola Hallengren via SSM...</a></td></tr>
 <tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/blog/using-aws-sdk-with-go-for-ec2-ami-metrics/">Using AWS SDK With Go for EC2 AMI Metrics</a></td></tr>
 <tr><td>2020-12</td><td><a href="https://dev.to/sheldonhull/using-aws-sdk-with-go-for-ec2-ami-metrics-49mn">Using Aws Sdk With Go for Ec2 Ami Metrics</a></td></tr>
-<tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/microblog/five/">I asked my daughter (3) how much she loved me. She held up her hands and sa...</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
