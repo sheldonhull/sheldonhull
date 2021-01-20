@@ -13,6 +13,8 @@ Howdy! 👋
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/ensuring-profile-environment-variables-available-to-intellij/">Ensuring Profile Environment Variables Available to Intellij</a></td></tr>
+<tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/blog/create-an-s3-lifecycle-policy-with-powershell/">Create an S3 Lifecycle Policy with PowerShell</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/leverage-renovate-for-easy-dependency-updates/">Leverage Renovate for Easy Dependency Updates</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-26/">Go R1 Day 26</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/remove-chrome-autocomplete-suggestion/">Remove Chrome Autocomplete Suggestion</a></td></tr>
@@ -26,8 +28,6 @@ Howdy! 👋
 <tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-20/">Go R1 Day 20</a></td></tr>
 <tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-19/">Go R1 Day 19</a></td></tr>
 <tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-18/">Go R1 Day 18</a></td></tr>
-<tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/microblog/sql-server-meets-aws-systems-manager/">SQL Server Meets AWS Systems Manager</a></td></tr>
-<tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/blog/using-aws-sdk-with-go-for-ec2-ami-metrics/">Using AWS SDK With Go for EC2 AMI Metrics</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
