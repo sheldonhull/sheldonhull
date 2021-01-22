@@ -13,6 +13,7 @@ Howdy! 👋
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/github-pages-now-supports-private-pages/">Github Pages Now Supports Private Pages</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/ensuring-profile-environment-variables-available-to-intellij/">Ensuring Profile Environment Variables Available to Intellij</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/blog/create-an-s3-lifecycle-policy-with-powershell/">Create an S3 Lifecycle Policy with PowerShell</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/leverage-renovate-for-easy-dependency-updates/">Leverage Renovate for Easy Dependency Updates</a></td></tr>
@@ -27,7 +28,6 @@ Howdy! 👋
 <tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-21/">Go R1 Day 21</a></td></tr>
 <tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-20/">Go R1 Day 20</a></td></tr>
 <tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-19/">Go R1 Day 19</a></td></tr>
-<tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-18/">Go R1 Day 18</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
