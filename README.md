@@ -14,20 +14,20 @@ Howdy! 👋
   </tr>
 <!-- BLOG-POST-LIST:START -->
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/nativefier/">Nativefier</a></td></tr>
+<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/nativefier-4foc">Nativefier</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-27/">Go R1 Day 27</a></td></tr>
+<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/go-r1-day-27-8dk">Go R1 Day 27</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/github-pages-now-supports-private-pages/">Github Pages Now Supports Private Pages</a></td></tr>
+<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/github-pages-now-supports-private-pages-2hib">Github Pages Now Supports Private Pages</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/ensuring-profile-environment-variables-available-to-intellij/">Ensuring Profile Environment Variables Available to Intellij</a></td></tr>
-<tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/blog/create-an-s3-lifecycle-policy-with-powershell/">Create an S3 Lifecycle Policy with PowerShell</a></td></tr>
+<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/ensuring-profile-environment-variables-available-to-intellij-2pp">Ensuring Profile Environment Variables Available to Intellij</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/create-an-s3-lifecycle-policy-with-powershell-57hd">Create an S3 Lifecycle Policy with PowerShell</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/leverage-renovate-for-easy-dependency-updates/">Leverage Renovate for Easy Dependency Updates</a></td></tr>
+<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/leverage-renovate-for-easy-dependency-updates-2i1">Leverage Renovate for Easy Dependency Updates</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-26/">Go R1 Day 26</a></td></tr>
+<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/go-r1-day-26-4ie9">Go R1 Day 26</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/remove-chrome-autocomplete-suggestion/">Remove Chrome Autocomplete Suggestion</a></td></tr>
-<tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-25/">Go R1 Day 25</a></td></tr>
-<tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-24/">Go R1 Day 24</a></td></tr>
-<tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-23/">Go R1 Day 23</a></td></tr>
-<tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/blog/experiments-with-go-arrays-and-slices/">Experiments With Go Arrays and Slices</a></td></tr>
-<tr><td>2020-12</td><td><a href="https://dev.to/sheldonhull/experiments-with-go-arrays-and-slices-5b5n">Experiments With Go Arrays and Slices</a></td></tr>
-<tr><td>2020-12</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-22/">Go R1 Day 22</a></td></tr>
+<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/remove-chrome-autocomplete-suggestion-4d0h">Remove Chrome Autocomplete Suggestion</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
