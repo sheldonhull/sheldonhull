@@ -13,6 +13,7 @@ Howdy! 👋
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-02</td><td><a href="https://dev.to/sheldonhull/working-with-powershell-objects-to-create-yaml-2kp0">Working With Powershell Objects to Create Yaml</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/nativefier/">Nativefier</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/nativefier-4foc">Nativefier</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-27/">Go R1 Day 27</a></td></tr>
@@ -27,7 +28,6 @@ Howdy! 👋
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-26/">Go R1 Day 26</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/go-r1-day-26-4ie9">Go R1 Day 26</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/remove-chrome-autocomplete-suggestion/">Remove Chrome Autocomplete Suggestion</a></td></tr>
-<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/remove-chrome-autocomplete-suggestion-4d0h">Remove Chrome Autocomplete Suggestion</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
