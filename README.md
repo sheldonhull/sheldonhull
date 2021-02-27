@@ -13,6 +13,7 @@ Howdy! 👋
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-02</td><td><a href="https://dev.to/sheldonhull/git-workflow-with-git-town-3h8n">Git Workflow With Git Town</a></td></tr>
 <tr><td>2021-02</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-28/">Go R1 Day 28</a></td></tr>
 <tr><td>2021-02</td><td><a href="https://www.sheldonhull.com/microblog/incremental-and-consistent/">Incremental and Consistent</a></td></tr>
 <tr><td>2021-02</td><td><a href="https://dev.to/sheldonhull/working-with-powershell-objects-to-create-yaml-2kp0">Working With Powershell Objects to Create Yaml</a></td></tr>
@@ -27,7 +28,6 @@ Howdy! 👋
 <tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/create-an-s3-lifecycle-policy-with-powershell-57hd">Create an S3 Lifecycle Policy with PowerShell</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/leverage-renovate-for-easy-dependency-updates/">Leverage Renovate for Easy Dependency Updates</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/leverage-renovate-for-easy-dependency-updates-2i1">Leverage Renovate for Easy Dependency Updates</a></td></tr>
-<tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-26/">Go R1 Day 26</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
