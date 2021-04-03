@@ -13,6 +13,8 @@ Howdy! 👋
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-31/">Go R1 Day 31</a></td></tr>
+<tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-30/">Go R1 Day 30</a></td></tr>
 <tr><td>2021-03</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-29/">Go R1 Day 29</a></td></tr>
 <tr><td>2021-03</td><td><a href="https://www.sheldonhull.com/microblog/fix-terraform-provider-path-in-state/">Fix Terraform Provider Path in State</a></td></tr>
 <tr><td>2021-02</td><td><a href="https://dev.to/sheldonhull/git-workflow-with-git-town-3h8n">Git Workflow With Git Town</a></td></tr>
@@ -26,8 +28,6 @@ Howdy! 👋
 <tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/go-r1-day-27-8dk">Go R1 Day 27</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/github-pages-now-supports-private-pages/">Github Pages Now Supports Private Pages</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/github-pages-now-supports-private-pages-2hib">Github Pages Now Supports Private Pages</a></td></tr>
-<tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/ensuring-profile-environment-variables-available-to-intellij/">Ensuring Profile Environment Variables Available to Intellij</a></td></tr>
-<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/ensuring-profile-environment-variables-available-to-intellij-2pp">Ensuring Profile Environment Variables Available to Intellij</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
