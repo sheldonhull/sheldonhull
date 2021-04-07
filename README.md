@@ -13,6 +13,8 @@ Howdy! 👋
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-33/">Go R1 Day 33</a></td></tr>
+<tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-32/">Go R1 Day 32</a></td></tr>
 <tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-31/">Go R1 Day 31</a></td></tr>
 <tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-30/">Go R1 Day 30</a></td></tr>
 <tr><td>2021-03</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-29/">Go R1 Day 29</a></td></tr>
@@ -26,8 +28,6 @@ Howdy! 👋
 <tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/nativefier-4foc">Nativefier</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-27/">Go R1 Day 27</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/go-r1-day-27-8dk">Go R1 Day 27</a></td></tr>
-<tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/github-pages-now-supports-private-pages/">Github Pages Now Supports Private Pages</a></td></tr>
-<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/github-pages-now-supports-private-pages-2hib">Github Pages Now Supports Private Pages</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
