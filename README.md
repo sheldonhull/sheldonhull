@@ -13,6 +13,7 @@ Howdy! 👋
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-34/">Go R1 Day 34</a></td></tr>
 <tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-33/">Go R1 Day 33</a></td></tr>
 <tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-32/">Go R1 Day 32</a></td></tr>
 <tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-31/">Go R1 Day 31</a></td></tr>
@@ -27,7 +28,6 @@ Howdy! 👋
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/nativefier/">Nativefier</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/nativefier-4foc">Nativefier</a></td></tr>
 <tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-27/">Go R1 Day 27</a></td></tr>
-<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/go-r1-day-27-8dk">Go R1 Day 27</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
