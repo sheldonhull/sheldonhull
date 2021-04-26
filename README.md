@@ -13,6 +13,7 @@ Howdy! 👋
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-37/">Go R1 Day 37</a></td></tr>
 <tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-36/">Go R1 Day 36</a></td></tr>
 <tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-35/">Go R1 Day 35</a></td></tr>
 <tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-34/">Go R1 Day 34</a></td></tr>
@@ -27,7 +28,6 @@ Howdy! 👋
 <tr><td>2021-02</td><td><a href="https://www.sheldonhull.com/microblog/incremental-and-consistent/">Incremental and Consistent</a></td></tr>
 <tr><td>2021-02</td><td><a href="https://dev.to/sheldonhull/incremental-and-consistent-5gne">Incremental and Consistent</a></td></tr>
 <tr><td>2021-02</td><td><a href="https://dev.to/sheldonhull/working-with-powershell-objects-to-create-yaml-2kp0">Working With Powershell Objects to Create Yaml</a></td></tr>
-<tr><td>2021-01</td><td><a href="https://www.sheldonhull.com/microblog/nativefier/">Nativefier</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
