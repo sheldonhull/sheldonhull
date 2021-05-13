@@ -13,7 +13,7 @@ Howdy! 👋
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
-<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/microblog/azure-devops-pr-automation-requires-generic-contribute/">Azure Devops Pr Automation Requires Generic Contribute</a></td></tr>
+<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/microblog/azure-devops-pr-automation-requires-generic-contribute/">Azure Devops PR Automation Requires Generic Contribute</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/microblog/hackattic/">Hackattic</a></td></tr>
 <tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-37/">Go R1 Day 37</a></td></tr>
 <tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-36/">Go R1 Day 36</a></td></tr>
