@@ -13,6 +13,7 @@ Howdy! 👋
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/microblog/cool-way-to-compare-features-in-note-apps/">Cool Way to Compare Features in Note Apps</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/microblog/azure-devops-pr-automation-requires-generic-contribute/">Azure Devops PR Automation Requires Generic Contribute</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/microblog/hackattic/">Hackattic</a></td></tr>
 <tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-37/">Go R1 Day 37</a></td></tr>
@@ -27,7 +28,6 @@ Howdy! 👋
 <tr><td>2021-03</td><td><a href="https://www.sheldonhull.com/microblog/fix-terraform-provider-path-in-state/">Fix Terraform Provider Path in State</a></td></tr>
 <tr><td>2021-02</td><td><a href="https://dev.to/sheldonhull/git-workflow-with-git-town-3h8n">Git Workflow With Git Town</a></td></tr>
 <tr><td>2021-02</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-28/">Go R1 Day 28</a></td></tr>
-<tr><td>2021-02</td><td><a href="https://www.sheldonhull.com/microblog/incremental-and-consistent/">Incremental and Consistent</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
