@@ -2,6 +2,8 @@
 
 Howdy! 👋 
 
+You can find my own little slice of the internet at [sheldonhull.com](https://www.sheldonhull.com)
+
 ![Sheldon Hull's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheldonhull&theme=tokyonight&count_private=true&show_icons=true)
 
 ## Blog posts
