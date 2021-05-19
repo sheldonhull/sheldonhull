@@ -14,20 +14,20 @@ Howdy! 👋
   </tr>
 <!-- BLOG-POST-LIST:START -->
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/microblog/cool-way-to-compare-features-in-note-apps/">Cool Way to Compare Features in Note Apps</a></td></tr>
+<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/microblog/cool-way-to-compare-features-in-note-apps/">Cool Way to Compare Features in Note Apps</a></td></tr>
+<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/microblog/azure-devops-pr-automation-requires-generic-contribute/">Azure Devops PR Automation Requires Generic Contribute</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/microblog/azure-devops-pr-automation-requires-generic-contribute/">Azure Devops PR Automation Requires Generic Contribute</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/microblog/hackattic/">Hackattic</a></td></tr>
+<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/microblog/hackattic/">Hackattic</a></td></tr>
+<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/blog/diagrams-as-code/">Diagrams as Code</a></td></tr>
+<tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-37/">Go R1 Day 37</a></td></tr>
 <tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-37/">Go R1 Day 37</a></td></tr>
 <tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-36/">Go R1 Day 36</a></td></tr>
+<tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-36/">Go R1 Day 36</a></td></tr>
+<tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-35/">Go R1 Day 35</a></td></tr>
 <tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-35/">Go R1 Day 35</a></td></tr>
 <tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-34/">Go R1 Day 34</a></td></tr>
-<tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-33/">Go R1 Day 33</a></td></tr>
-<tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-32/">Go R1 Day 32</a></td></tr>
-<tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-31/">Go R1 Day 31</a></td></tr>
-<tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-30/">Go R1 Day 30</a></td></tr>
-<tr><td>2021-03</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-29/">Go R1 Day 29</a></td></tr>
-<tr><td>2021-03</td><td><a href="https://www.sheldonhull.com/microblog/fix-terraform-provider-path-in-state/">Fix Terraform Provider Path in State</a></td></tr>
-<tr><td>2021-02</td><td><a href="https://dev.to/sheldonhull/git-workflow-with-git-town-3h8n">Git Workflow With Git Town</a></td></tr>
-<tr><td>2021-02</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-28/">Go R1 Day 28</a></td></tr>
+<tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-34/">Go R1 Day 34</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
