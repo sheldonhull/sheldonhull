@@ -15,6 +15,8 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/microblog/cloudflare-analytics-for-your-jamstack-site/">Cloudflare Analytics for Your Jamstack Site</a></td></tr>
+<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/microblog/cloudflare-analytics-for-your-jamstack-site/">Cloudflare Analytics for Your Jamstack Site</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/microblog/make-vscode-annoy-me-when-i-make-a-typo/">Make Vscode Annoy Me When I Make a Typo</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/microblog/make-vscode-annoy-me-when-i-make-a-typo/">Make Vscode Annoy Me When I Make a Typo</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/microblog/open-markdown-in-typora-from-vscode/">Open Markdown in Typora From Vscode</a></td></tr>
@@ -28,8 +30,6 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/microblog/hackattic/">Hackattic</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/blog/diagrams-as-code/">Diagrams as Code</a></td></tr>
 <tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-37/">Go R1 Day 37</a></td></tr>
-<tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-37/">Go R1 Day 37</a></td></tr>
-<tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/microblog/go-r1-day-36/">Go R1 Day 36</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
