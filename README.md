@@ -15,6 +15,8 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/highlight-problem-characters-in-code/">Highlight Problem Characters in Code</a></td></tr>
+<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/highlight-problem-characters-in-code/">Highlight Problem Characters in Code</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/the-dark-side/">The Dark Side</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/the-dark-side/">The Dark Side</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/go-r1-day-38/">Go R1 Day 38</a></td></tr>
@@ -28,8 +30,6 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/cloudflare-analytics-for-your-jamstack-site/">Cloudflare Analytics for Your Jamstack Site</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/cloudflare-analytics-for-your-jamstack-site/">Cloudflare Analytics for Your Jamstack Site</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/make-vscode-annoy-me-when-i-make-a-typo/">Make Vscode Annoy Me When I Make a Typo</a></td></tr>
-<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/make-vscode-annoy-me-when-i-make-a-typo/">Make Vscode Annoy Me When I Make a Typo</a></td></tr>
-<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/open-markdown-in-typora-from-vscode/">Open Markdown in Typora From Vscode</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
