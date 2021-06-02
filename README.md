@@ -16,20 +16,20 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
   </tr>
 <!-- BLOG-POST-LIST:START -->
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/highlight-problem-characters-in-code/">Highlight Problem Characters in Code</a></td></tr>
-<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/highlight-problem-characters-in-code/">Highlight Problem Characters in Code</a></td></tr>
-<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/the-dark-side/">The Dark Side</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/the-dark-side/">The Dark Side</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/go-r1-day-38/">Go R1 Day 38</a></td></tr>
-<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/go-r1-day-38/">Go R1 Day 38</a></td></tr>
-<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/value-local-art/">Value Local Art</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/value-local-art/">Value Local Art</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/dance-time/">Dance Time</a></td></tr>
-<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/dance-time/">Dance Time</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/the-open-guide-to-amazon-web-services/">The Open Guide to Amazon Web Services</a></td></tr>
-<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/the-open-guide-to-amazon-web-services/">The Open Guide to Amazon Web Services</a></td></tr>
-<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/cloudflare-analytics-for-your-jamstack-site/">Cloudflare Analytics for Your Jamstack Site</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/cloudflare-analytics-for-your-jamstack-site/">Cloudflare Analytics for Your Jamstack Site</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/make-vscode-annoy-me-when-i-make-a-typo/">Make Vscode Annoy Me When I Make a Typo</a></td></tr>
+<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/open-markdown-in-typora-from-vscode/">Open Markdown in Typora From Vscode</a></td></tr>
+<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/cool-way-to-compare-features-in-note-apps/">Cool Way to Compare Features in Note Apps</a></td></tr>
+<tr><td>2021-05</td><td><a href="https://dev.to/sheldonhull/cool-way-to-compare-features-in-note-apps-d0">Cool Way to Compare Features in Note Apps</a></td></tr>
+<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/azure-devops-pr-automation-requires-generic-contribute/">Azure Devops PR Automation Requires Generic Contribute</a></td></tr>
+<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/hackattic/">Hackattic</a></td></tr>
+<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/diagrams-as-code/">Diagrams as Code</a></td></tr>
+<tr><td>2021-04</td><td><a href="https://www.sheldonhull.com/go-r1-day-37/">Go R1 Day 37</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
