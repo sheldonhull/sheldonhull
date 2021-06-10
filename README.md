@@ -15,6 +15,7 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/log4-brains-improves-adr-experience/">Log4 Brains Improves ADR Experience</a></td></tr>
 <tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/career-advice-from-a-drunk-dev-on-reddit/">Career Advice From a Drunk Dev on Reddit</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/highlight-problem-characters-in-code/">Highlight Problem Characters in Code</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/the-dark-side/">The Dark Side</a></td></tr>
@@ -29,7 +30,6 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
 <tr><td>2021-05</td><td><a href="https://dev.to/sheldonhull/cool-way-to-compare-features-in-note-apps-d0">Cool Way to Compare Features in Note Apps</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/azure-devops-pr-automation-requires-generic-contribute/">Azure Devops PR Automation Requires Generic Contribute</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/hackattic/">Hackattic</a></td></tr>
-<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/diagrams-as-code/">Diagrams as Code</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
