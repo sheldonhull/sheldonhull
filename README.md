@@ -15,6 +15,9 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/go-r1-day-39/">Go R1 Day 39</a></td></tr>
+<tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/using-azure-devops-for-private-go-modules/">Using Azure DevOps for Private Go Modules</a></td></tr>
+<tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/gitpod-user-feedback/">GitPod User Feedback</a></td></tr>
 <tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/log4-brains-improves-adr-experience/">Log4 Brains Improves ADR Experience</a></td></tr>
 <tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/career-advice-from-a-drunk-dev-on-reddit/">Career Advice From a Drunk Dev on Reddit</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/highlight-problem-characters-in-code/">Highlight Problem Characters in Code</a></td></tr>
@@ -27,9 +30,6 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/make-vscode-annoy-me-when-i-make-a-typo/">Make Vscode Annoy Me When I Make a Typo</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/open-markdown-in-typora-from-vscode/">Open Markdown in Typora From Vscode</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/cool-way-to-compare-features-in-note-apps/">Cool Way to Compare Features in Note Apps</a></td></tr>
-<tr><td>2021-05</td><td><a href="https://dev.to/sheldonhull/cool-way-to-compare-features-in-note-apps-d0">Cool Way to Compare Features in Note Apps</a></td></tr>
-<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/azure-devops-pr-automation-requires-generic-contribute/">Azure Devops PR Automation Requires Generic Contribute</a></td></tr>
-<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/hackattic/">Hackattic</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
