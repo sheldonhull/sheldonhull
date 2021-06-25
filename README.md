@@ -15,6 +15,8 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/go-r1-day-47/">Go R1 Day 47</a></td></tr>
+<tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/go-r1-day-46/">Go R1 Day 46</a></td></tr>
 <tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/go-r1-day-45/">Go R1 Day 45</a></td></tr>
 <tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/go-r1-day-44/">Go R1 Day 44</a></td></tr>
 <tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/go-r1-day-43/">Go R1 Day 43</a></td></tr>
@@ -28,8 +30,6 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
 <tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/career-advice-from-a-drunk-dev-on-reddit/">Career Advice From a Drunk Dev on Reddit</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/highlight-problem-characters-in-code/">Highlight Problem Characters in Code</a></td></tr>
 <tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/the-dark-side/">The Dark Side</a></td></tr>
-<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/go-r1-day-38/">Go R1 Day 38</a></td></tr>
-<tr><td>2021-05</td><td><a href="https://www.sheldonhull.com/value-local-art/">Value Local Art</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
