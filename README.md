@@ -15,6 +15,8 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-49/">Go R1 Day 49</a></td></tr>
+<tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/how-to-reduce-noise-from-slack/">How To Reduce Noise From Slack</a></td></tr>
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-48/">Go R1 Day 48</a></td></tr>
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/luminar-ai/">Luminar AI</a></td></tr>
 <tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/simplify-aws-developer-security-with-leapp/">Simplify Aws Developer Security With Leapp</a></td></tr>
@@ -28,8 +30,6 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
 <tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/go-r1-day-40/">Go R1 Day 40</a></td></tr>
 <tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/go-r1-day-39/">Go R1 Day 39</a></td></tr>
 <tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/using-azure-devops-for-private-go-modules/">Using Azure DevOps for Private Go Modules</a></td></tr>
-<tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/gitpod-user-feedback/">GitPod User Feedback</a></td></tr>
-<tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/log4-brains-improves-adr-experience/">Log4 Brains Improves ADR Experience</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
