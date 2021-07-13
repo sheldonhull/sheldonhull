@@ -15,6 +15,7 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-51/">Go R1 Day 51</a></td></tr>
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/use-driftctl-to-detect-infra-drift/">Use Driftctl to Detect Infra Drift</a></td></tr>
 <tr><td>2021-07</td><td><a href="https://dev.to/sheldonhull/rss-feed-from-hugo-site-with-broken-shortcodes-38b2">RSS Feed from Hugo Site With Broken Shortcodes</a></td></tr>
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-50/">Go R1 Day 50</a></td></tr>
@@ -29,7 +30,6 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
 <tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/go-r1-day-44/">Go R1 Day 44</a></td></tr>
 <tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/go-r1-day-43/">Go R1 Day 43</a></td></tr>
 <tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/go-r1-day-42/">Go R1 Day 42</a></td></tr>
-<tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/go-r1-day-41/">Go R1 Day 41</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
