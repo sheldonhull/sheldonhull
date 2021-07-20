@@ -15,6 +15,9 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/my-goland-log/">My Goland Log</a></td></tr>
+<tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-55/">Go R1 Day 55</a></td></tr>
+<tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-54/">Go R1 Day 54</a></td></tr>
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/steampipe-is-sql-magic/">Steampipe Is Sql Magic</a></td></tr>
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-53/">Go R1 Day 53</a></td></tr>
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-52/">Go R1 Day 52</a></td></tr>
@@ -27,9 +30,6 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/how-to-reduce-noise-from-slack/">How To Reduce Noise From Slack</a></td></tr>
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-48/">Go R1 Day 48</a></td></tr>
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/luminar-ai/">Luminar AI</a></td></tr>
-<tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/simplify-aws-developer-security-with-leapp/">Simplify Aws Developer Security With Leapp</a></td></tr>
-<tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/go-r1-day-47/">Go R1 Day 47</a></td></tr>
-<tr><td>2021-06</td><td><a href="https://www.sheldonhull.com/go-r1-day-46/">Go R1 Day 46</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
