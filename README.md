@@ -15,6 +15,8 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-57/">Go R1 Day 57</a></td></tr>
+<tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-56/">Go R1 Day 56</a></td></tr>
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/my-goland-log/">My Goland Log</a></td></tr>
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-55/">Go R1 Day 55</a></td></tr>
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-54/">Go R1 Day 54</a></td></tr>
@@ -28,8 +30,6 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-50/">Go R1 Day 50</a></td></tr>
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-49/">Go R1 Day 49</a></td></tr>
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/how-to-reduce-noise-from-slack/">How To Reduce Noise From Slack</a></td></tr>
-<tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-48/">Go R1 Day 48</a></td></tr>
-<tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/luminar-ai/">Luminar AI</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
