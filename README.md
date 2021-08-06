@@ -15,6 +15,7 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-08</td><td><a href="https://www.sheldonhull.com/go-r1-day-63/">Go R1 Day 63</a></td></tr>
 <tr><td>2021-08</td><td><a href="https://www.sheldonhull.com/go-r1-day-62/">Go R1 Day 62</a></td></tr>
 <tr><td>2021-08</td><td><a href="https://www.sheldonhull.com/go-r1-day-61/">Go R1 Day 61</a></td></tr>
 <tr><td>2021-08</td><td><a href="https://www.sheldonhull.com/go-r1-day-60/">Go R1 Day 60</a></td></tr>
@@ -29,7 +30,6 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-53/">Go R1 Day 53</a></td></tr>
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-52/">Go R1 Day 52</a></td></tr>
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/my-first-vscode-extension-pack-for-go/">My First Vscode Extension Pack for Go</a></td></tr>
-<tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-51/">Go R1 Day 51</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
