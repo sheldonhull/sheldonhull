@@ -15,6 +15,8 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-08</td><td><a href="https://www.sheldonhull.com/first-pass-with-pulumi/">First Pass With Pulumi</a></td></tr>
+<tr><td>2021-08</td><td><a href="https://www.sheldonhull.com/sweetops-slack-archive/">SweetOps Slack Archive</a></td></tr>
 <tr><td>2021-08</td><td><a href="https://www.sheldonhull.com/go-r1-day-63/">Go R1 Day 63</a></td></tr>
 <tr><td>2021-08</td><td><a href="https://www.sheldonhull.com/go-r1-day-62/">Go R1 Day 62</a></td></tr>
 <tr><td>2021-08</td><td><a href="https://www.sheldonhull.com/go-r1-day-61/">Go R1 Day 61</a></td></tr>
@@ -28,8 +30,6 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-54/">Go R1 Day 54</a></td></tr>
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/steampipe-is-sql-magic/">Steampipe Is Sql Magic</a></td></tr>
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-53/">Go R1 Day 53</a></td></tr>
-<tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-52/">Go R1 Day 52</a></td></tr>
-<tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/my-first-vscode-extension-pack-for-go/">My First Vscode Extension Pack for Go</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
