@@ -15,6 +15,7 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-08</td><td><a href="https://www.sheldonhull.com/go-r1-day-68/">Go R1 Day 68</a></td></tr>
 <tr><td>2021-08</td><td><a href="https://stackoverflow.com/questions/68852168/is-there-a-way-to-force-sync-visual-studio-code-extensions-on-a-seperate-machine/68852238#68852238">Answer by sheldonhull for Is there a way to force sync Visual Studio Code e...</a></td></tr>
 <tr><td>2021-08</td><td><a href="https://stackoverflow.com/questions/68852168/is-there-a-way-to-force-sync-visual-studio-code-extensions-on-a-seperate-machine">Is there a way to force sync Visual Studio Code extensions on a seperate ma...</a></td></tr>
 <tr><td>2021-08</td><td><a href="https://www.sheldonhull.com/go-r1-day-67/">Go R1 Day 67</a></td></tr>
@@ -29,7 +30,6 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
 <tr><td>2021-08</td><td><a href="https://www.sheldonhull.com/go-r1-day-60/">Go R1 Day 60</a></td></tr>
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-59/">Go R1 Day 59</a></td></tr>
 <tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-57/">Go R1 Day 57</a></td></tr>
-<tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-56/">Go R1 Day 56</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
