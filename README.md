@@ -15,21 +15,21 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
-<tr><td>2021-08</td><td><a href="https://www.sheldonhull.com/go-r1-day-68/">Go R1 Day 68</a></td></tr>
 <tr><td>2021-08</td><td><a href="https://stackoverflow.com/questions/68852168/is-there-a-way-to-force-sync-visual-studio-code-extensions-on-a-seperate-machine/68852238#68852238">Answer by sheldonhull for Is there a way to force sync Visual Studio Code e...</a></td></tr>
 <tr><td>2021-08</td><td><a href="https://stackoverflow.com/questions/68852168/is-there-a-way-to-force-sync-visual-studio-code-extensions-on-a-seperate-machine">Is there a way to force sync Visual Studio Code extensions on a seperate ma...</a></td></tr>
-<tr><td>2021-08</td><td><a href="https://www.sheldonhull.com/go-r1-day-67/">Go R1 Day 67</a></td></tr>
-<tr><td>2021-08</td><td><a href="https://www.sheldonhull.com/go-r1-day-66/">Go R1 Day 66</a></td></tr>
-<tr><td>2021-08</td><td><a href="https://www.sheldonhull.com/go-r1-day-65/">Go R1 Day 65</a></td></tr>
-<tr><td>2021-08</td><td><a href="https://www.sheldonhull.com/go-r1-day-64/">Go R1 Day 64</a></td></tr>
-<tr><td>2021-08</td><td><a href="https://www.sheldonhull.com/first-pass-with-pulumi/">First Pass With Pulumi</a></td></tr>
-<tr><td>2021-08</td><td><a href="https://www.sheldonhull.com/sweetops-slack-archive/">SweetOps Slack Archive</a></td></tr>
-<tr><td>2021-08</td><td><a href="https://www.sheldonhull.com/go-r1-day-63/">Go R1 Day 63</a></td></tr>
-<tr><td>2021-08</td><td><a href="https://www.sheldonhull.com/go-r1-day-62/">Go R1 Day 62</a></td></tr>
-<tr><td>2021-08</td><td><a href="https://www.sheldonhull.com/go-r1-day-61/">Go R1 Day 61</a></td></tr>
-<tr><td>2021-08</td><td><a href="https://www.sheldonhull.com/go-r1-day-60/">Go R1 Day 60</a></td></tr>
-<tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-59/">Go R1 Day 59</a></td></tr>
-<tr><td>2021-07</td><td><a href="https://www.sheldonhull.com/go-r1-day-57/">Go R1 Day 57</a></td></tr>
+<tr><td>2021-07</td><td><a href="https://dev.to/sheldonhull/rss-feed-from-hugo-site-with-broken-shortcodes-38b2">RSS Feed from Hugo Site With Broken Shortcodes</a></td></tr>
+<tr><td>2021-05</td><td><a href="https://dev.to/sheldonhull/cool-way-to-compare-features-in-note-apps-d0">Cool Way to Compare Features in Note Apps</a></td></tr>
+<tr><td>2021-02</td><td><a href="https://dev.to/sheldonhull/git-workflow-with-git-town-3h8n">Git Workflow With Git Town</a></td></tr>
+<tr><td>2021-02</td><td><a href="https://dev.to/sheldonhull/incremental-and-consistent-5gne">Incremental and Consistent</a></td></tr>
+<tr><td>2021-02</td><td><a href="https://dev.to/sheldonhull/working-with-powershell-objects-to-create-yaml-2kp0">Working With Powershell Objects to Create Yaml</a></td></tr>
+<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/nativefier-4foc">Nativefier</a></td></tr>
+<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/go-r1-day-27-8dk">Go R1 Day 27</a></td></tr>
+<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/github-pages-now-supports-private-pages-2hib">Github Pages Now Supports Private Pages</a></td></tr>
+<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/ensuring-profile-environment-variables-available-to-intellij-2pp">Ensuring Profile Environment Variables Available to Intellij</a></td></tr>
+<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/create-an-s3-lifecycle-policy-with-powershell-57hd">Create an S3 Lifecycle Policy with PowerShell</a></td></tr>
+<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/leverage-renovate-for-easy-dependency-updates-2i1">Leverage Renovate for Easy Dependency Updates</a></td></tr>
+<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/go-r1-day-26-4ie9">Go R1 Day 26</a></td></tr>
+<tr><td>2020-10</td><td><a href="https://stackoverflow.com/questions/64293409/execute-managed-aws-config-rule-on-demand-via-sdk/64340044#64340044">Answer by sheldonhull for Execute managed AWS Config rule on demand via SDK</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
