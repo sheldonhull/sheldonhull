@@ -6,6 +6,14 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
 
 ![Sheldon Hull's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheldonhull&theme=tokyonight&count_private=true&show_icons=true)
 
+## Ask me Anything
+
+[↗ Ask me Anything](https://github.com/sheldonhull/sheldonhull.hugo/discussions/new?category=ama)
+
+If you want to chat in a less public way, DM's are open on twitter. 
+
+[🐦 Direct Message Me On Twitter](https://twitter.com/messages/compose?recipient_id=247477081&text=connecting%20from%20your%20site...)
+
 ## Blog posts
 
 ![Latest blog post workflow](https://github.com/sheldonhull/sheldonhull/workflows/Latest%20blog%20post%20workflow/badge.svg)
