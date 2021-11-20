@@ -23,21 +23,21 @@ If you want to chat in a less public way, DM's are open on twitter.
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
-<tr><td>2021-08</td><td><a href="https://stackoverflow.com/questions/68852168/is-there-a-way-to-force-sync-visual-studio-code-extensions-on-a-seperate-machine/68852238#68852238">Answer by sheldonhull for Is there a way to force sync Visual Studio Code e...</a></td></tr>
-<tr><td>2021-08</td><td><a href="https://stackoverflow.com/questions/68852168/is-there-a-way-to-force-sync-visual-studio-code-extensions-on-a-seperate-machine">Is there a way to force sync Visual Studio Code extensions on a seperate ma...</a></td></tr>
-<tr><td>2021-07</td><td><a href="https://dev.to/sheldonhull/rss-feed-from-hugo-site-with-broken-shortcodes-38b2">RSS Feed from Hugo Site With Broken Shortcodes</a></td></tr>
-<tr><td>2021-05</td><td><a href="https://dev.to/sheldonhull/cool-way-to-compare-features-in-note-apps-d0">Cool Way to Compare Features in Note Apps</a></td></tr>
-<tr><td>2021-02</td><td><a href="https://dev.to/sheldonhull/git-workflow-with-git-town-3h8n">Git Workflow With Git Town</a></td></tr>
-<tr><td>2021-02</td><td><a href="https://dev.to/sheldonhull/incremental-and-consistent-5gne">Incremental and Consistent</a></td></tr>
-<tr><td>2021-02</td><td><a href="https://dev.to/sheldonhull/working-with-powershell-objects-to-create-yaml-2kp0">Working With Powershell Objects to Create Yaml</a></td></tr>
-<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/nativefier-4foc">Nativefier</a></td></tr>
-<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/go-r1-day-27-8dk">Go R1 Day 27</a></td></tr>
-<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/github-pages-now-supports-private-pages-2hib">Github Pages Now Supports Private Pages</a></td></tr>
-<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/ensuring-profile-environment-variables-available-to-intellij-2pp">Ensuring Profile Environment Variables Available to Intellij</a></td></tr>
-<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/create-an-s3-lifecycle-policy-with-powershell-57hd">Create an S3 Lifecycle Policy with PowerShell</a></td></tr>
-<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/leverage-renovate-for-easy-dependency-updates-2i1">Leverage Renovate for Easy Dependency Updates</a></td></tr>
-<tr><td>2021-01</td><td><a href="https://dev.to/sheldonhull/go-r1-day-26-4ie9">Go R1 Day 26</a></td></tr>
-<tr><td>2020-10</td><td><a href="https://stackoverflow.com/questions/64293409/execute-managed-aws-config-rule-on-demand-via-sdk/64340044#64340044">Answer by sheldonhull for Execute managed AWS Config rule on demand via SDK</a></td></tr>
+<tr><td>2021-11</td><td><a href="https://www.sheldonhull.com/go-r1-day-85/">Go R1 Day 85</a></td></tr>
+<tr><td>2021-11</td><td><a href="https://www.sheldonhull.com/go-r1-day-84/">Go R1 Day 84</a></td></tr>
+<tr><td>2021-11</td><td><a href="https://www.sheldonhull.com/thermal-throttling-mac-intel-woes/">Thermal Throttling Mac Intel Woes</a></td></tr>
+<tr><td>2021-11</td><td><a href="https://www.sheldonhull.com/go-r1-day-83/">Go R1 Day 83</a></td></tr>
+<tr><td>2021-11</td><td><a href="https://www.sheldonhull.com/go-r1-day-82/">Go R1 Day 82</a></td></tr>
+<tr><td>2021-11</td><td><a href="https://www.sheldonhull.com/go-r1-day-81/">Go R1 Day 81</a></td></tr>
+<tr><td>2021-11</td><td><a href="https://www.sheldonhull.com/keyboard-remapping-in-goland/">Keyboard Remapping in Goland</a></td></tr>
+<tr><td>2021-11</td><td><a href="https://www.sheldonhull.com/go-r1-day-80/">Go R1 Day 80</a></td></tr>
+<tr><td>2021-10</td><td><a href="https://www.sheldonhull.com/go-r1-day-79/">Go R1 Day 79</a></td></tr>
+<tr><td>2021-10</td><td><a href="https://www.sheldonhull.com/go-r1-day-78/">Go R1 Day 78</a></td></tr>
+<tr><td>2021-10</td><td><a href="https://www.sheldonhull.com/go-r1-day-77/">Go R1 Day 77</a></td></tr>
+<tr><td>2021-10</td><td><a href="https://www.sheldonhull.com/go-r1-day-76/">Go R1 Day 76</a></td></tr>
+<tr><td>2021-10</td><td><a href="https://www.sheldonhull.com/go-r1-day-75/">Go R1 Day 75</a></td></tr>
+<tr><td>2021-10</td><td><a href="https://www.sheldonhull.com/go-r1-day-74/">Go R1 Day 74</a></td></tr>
+<tr><td>2021-10</td><td><a href="https://www.sheldonhull.com/go-r1-day-73/">Go R1 Day 73</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
