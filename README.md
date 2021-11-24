@@ -23,6 +23,7 @@ If you want to chat in a less public way, DM's are open on twitter.
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-11</td><td><a href="https://www.sheldonhull.com/docker-healthchecks-for-spinning-up-local-stacks/">Docker Healthchecks for Spinning Up Local Stacks</a></td></tr>
 <tr><td>2021-11</td><td><a href="https://www.sheldonhull.com/go-r1-day-85/">Go R1 Day 85</a></td></tr>
 <tr><td>2021-11</td><td><a href="https://www.sheldonhull.com/go-r1-day-84/">Go R1 Day 84</a></td></tr>
 <tr><td>2021-11</td><td><a href="https://www.sheldonhull.com/thermal-throttling-mac-intel-woes/">Thermal Throttling Mac Intel Woes</a></td></tr>
@@ -37,7 +38,6 @@ If you want to chat in a less public way, DM's are open on twitter.
 <tr><td>2021-10</td><td><a href="https://www.sheldonhull.com/go-r1-day-76/">Go R1 Day 76</a></td></tr>
 <tr><td>2021-10</td><td><a href="https://www.sheldonhull.com/go-r1-day-75/">Go R1 Day 75</a></td></tr>
 <tr><td>2021-10</td><td><a href="https://www.sheldonhull.com/go-r1-day-74/">Go R1 Day 74</a></td></tr>
-<tr><td>2021-10</td><td><a href="https://www.sheldonhull.com/go-r1-day-73/">Go R1 Day 73</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
