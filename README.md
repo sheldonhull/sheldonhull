@@ -23,6 +23,8 @@ If you want to chat in a less public way, DM's are open on twitter.
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2021-12</td><td><a href="https://www.sheldonhull.com/helm-is-like-hugo/">Helm Is Like Hugo</a></td></tr>
+<tr><td>2021-12</td><td><a href="https://www.sheldonhull.com/go-r1-day-86/">Go R1 Day 86 - Wrap Up!</a></td></tr>
 <tr><td>2021-12</td><td><a href="https://www.sheldonhull.com/setup-sourcegraph-locally/">Setup Sourcegraph Locally</a></td></tr>
 <tr><td>2021-11</td><td><a href="https://www.sheldonhull.com/docker-healthchecks-for-spinning-up-local-stacks/">Docker Healthchecks for Spinning Up Local Stacks</a></td></tr>
 <tr><td>2021-11</td><td><a href="https://www.sheldonhull.com/go-r1-day-85/">Go R1 Day 85</a></td></tr>
@@ -36,8 +38,6 @@ If you want to chat in a less public way, DM's are open on twitter.
 <tr><td>2021-10</td><td><a href="https://www.sheldonhull.com/go-r1-day-79/">Go R1 Day 79</a></td></tr>
 <tr><td>2021-10</td><td><a href="https://www.sheldonhull.com/go-r1-day-78/">Go R1 Day 78</a></td></tr>
 <tr><td>2021-10</td><td><a href="https://www.sheldonhull.com/go-r1-day-77/">Go R1 Day 77</a></td></tr>
-<tr><td>2021-10</td><td><a href="https://www.sheldonhull.com/go-r1-day-76/">Go R1 Day 76</a></td></tr>
-<tr><td>2021-10</td><td><a href="https://www.sheldonhull.com/go-r1-day-75/">Go R1 Day 75</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
