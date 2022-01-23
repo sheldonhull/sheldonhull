@@ -44,9 +44,9 @@ If you want to chat in a less public way, DM's are open on twitter.
 
 ## survey says 
 
-- 🔭  I’m currently working on: AWS and minimizing the amount of chaos I generate
-- 🌱  I’m currently learning: #golang and improving my serverless chops
-- 👯  I’m looking to collaborate on: chatops
+- 🔭  I’m currently working on: Go, Pulumi, Kubernetes
+- 🌱  I’m currently learning: Wrapping my head around K8s and infra through Pulumi.
+- 👯  I’m looking to collaborate on: Go
 - 🤔  I’m looking for help with: #golang, #chatops, and #serverless
 - 💬  Ask me about anything
 - 📫  How to reach me: post a comment on my blog, including about page. It will automatically open a public github issue for dialogue on anything, or reach out on my blog social media links.
@@ -56,8 +56,9 @@ If you want to chat in a less public way, DM's are open on twitter.
 ## Fellow Dev FAQ:
 
 - _Preferred Editor:_ Visual Studio Code
-- _Light or Dark Theme:_ Dark, of course. Currently using City Lights Dark Theme.
-- _Spaces or Tabs:_ Spaces, simply because most of the tooling in the DevOps arena expects it. Font: Jet Brains Mono & FuraCode Nerd Font Mono (ligature based font)
+- _Light or Dark Theme:_ Dark, of course. Currently using Night Owl.
+- _Spaces or Tabs:_ whatever gitattributes defines.  
+- Font: Jet Brains Mono & FuraCode Nerd Font Mono (ligature based font)
 - _Source Control:_ Git
 - _Automation:_ Azure DevOps, GitHub Actions (GitLab also seems promising)
 - _Preferred Computer Setup:_ Ultrawide, mechanical keyboard, and latte...
