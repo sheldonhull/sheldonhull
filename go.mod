@@ -2,7 +2,7 @@ module github.com/sheldonhull/sheldonhull
 
 go 1.17
 
-require github.com/pterm/pterm v0.12.33
+require github.com/pterm/pterm v0.12.36
 
 require (
 	github.com/atomicgo/cursor v0.0.1 // indirect
