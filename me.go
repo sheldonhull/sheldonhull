@@ -12,7 +12,7 @@ const (
 )
 
 func main() {
-	pterm.Success.Println("Foo")
+	pterm.Success.Println("The Epic Personal Go Card Of Sheldon Hull")
 	hs := pterm.NewStyle(pterm.BgLightWhite, pterm.BgBlack, pterm.Bold)
 
 	t, err := pterm.DefaultTable.WithStyle(hs).WithData(pterm.TableData{
