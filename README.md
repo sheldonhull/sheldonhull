@@ -6,6 +6,10 @@ You can find my own little slice of the internet at [sheldonhull.com](https://ww
 
 ![Sheldon Hull's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheldonhull&theme=tokyonight&count_private=true&show_icons=true)
 
+## Feeling Adventurous?
+
+Read this about me in your terminal with: `go run github.com/sheldonhull/sheldonhull@latest`.
+
 ## Ask me Anything
 
 [↗ Ask me Anything](https://github.com/sheldonhull/sheldonhull.hugo/discussions/new?category=ama)
