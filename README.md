@@ -27,6 +27,7 @@ If you want to chat in a less public way, DM's are open on twitter.
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2022-03</td><td><a href="https://www.sheldonhull.com/pulumi-secrets/">Pulumi Secrets</a></td></tr>
 <tr><td>2022-03</td><td><a href="https://www.sheldonhull.com/night-owl-for-slack/">Night Owl for Slack</a></td></tr>
 <tr><td>2022-03</td><td><a href="https://www.sheldonhull.com/go-templates-with-kubectl/">Go Templates With Kubectl</a></td></tr>
 <tr><td>2022-03</td><td><a href="https://www.sheldonhull.com/reflex-for-quick-filewatching-commands/">Reflex for Quick Filewatching Commands</a></td></tr>
@@ -41,7 +42,6 @@ If you want to chat in a less public way, DM's are open on twitter.
 <tr><td>2021-11</td><td><a href="https://www.sheldonhull.com/thermal-throttling-mac-intel-woes/">Thermal Throttling Mac Intel Woes</a></td></tr>
 <tr><td>2021-11</td><td><a href="https://www.sheldonhull.com/go-r1-day-83/">Go R1 Day 83</a></td></tr>
 <tr><td>2021-11</td><td><a href="https://www.sheldonhull.com/go-r1-day-82/">Go R1 Day 82</a></td></tr>
-<tr><td>2021-11</td><td><a href="https://www.sheldonhull.com/go-r1-day-81/">Go R1 Day 81</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
