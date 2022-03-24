@@ -27,6 +27,8 @@ If you want to chat in a less public way, DM's are open on twitter.
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2022-03</td><td><a href="https://www.sheldonhull.com/using-randomization-for-pulumi-kubernetes-resources/">Using Randomization for Pulumi Kubernetes Resources</a></td></tr>
+<tr><td>2022-03</td><td><a href="https://www.sheldonhull.com/remove-pending-operations-from-pulumi-state/">Remove Pending Operations From Pulumi State</a></td></tr>
 <tr><td>2022-03</td><td><a href="https://www.sheldonhull.com/pulumi-secrets/">Pulumi Secrets</a></td></tr>
 <tr><td>2022-03</td><td><a href="https://www.sheldonhull.com/night-owl-for-slack/">Night Owl for Slack</a></td></tr>
 <tr><td>2022-03</td><td><a href="https://www.sheldonhull.com/go-templates-with-kubectl/">Go Templates With Kubectl</a></td></tr>
@@ -40,8 +42,6 @@ If you want to chat in a less public way, DM's are open on twitter.
 <tr><td>2021-11</td><td><a href="https://www.sheldonhull.com/go-r1-day-85/">Go R1 Day 85</a></td></tr>
 <tr><td>2021-11</td><td><a href="https://www.sheldonhull.com/go-r1-day-84/">Go R1 Day 84</a></td></tr>
 <tr><td>2021-11</td><td><a href="https://www.sheldonhull.com/thermal-throttling-mac-intel-woes/">Thermal Throttling Mac Intel Woes</a></td></tr>
-<tr><td>2021-11</td><td><a href="https://www.sheldonhull.com/go-r1-day-83/">Go R1 Day 83</a></td></tr>
-<tr><td>2021-11</td><td><a href="https://www.sheldonhull.com/go-r1-day-82/">Go R1 Day 82</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
