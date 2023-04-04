@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@1.8.2 #renovate tag=v1.8.2
         with:
           #feed_list: "https://www.sheldonhull.com/index.xml,https://www.sheldonhull.com/microblog/index.xml,https://dev.to/feed/sheldonhull,https://stackoverflow.com/feeds/user/68698"
           #feed_list: "https://www.sheldonhull.com/index.xml,https://dev.to/feed/sheldonhull,https://stackoverflow.com/feeds/user/68698"
