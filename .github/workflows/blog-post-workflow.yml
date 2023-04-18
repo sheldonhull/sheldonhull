@@ -8,6 +8,8 @@ jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # To write the generated contents to the readme
     steps:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@1.8.2 #renovate tag=v1.8.2
