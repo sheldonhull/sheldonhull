@@ -27,6 +27,7 @@ If you want to chat in a less public way, DM's are open on twitter.
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2023-03</td><td><a href="https://www.sheldonhull.com/digital-garden-released/">Digital Garden Released</a></td></tr>
 <tr><td>2022-12</td><td><a href="https://www.sheldonhull.com/amply-repaid/">Amply Repaid</a></td></tr>
 <tr><td>2022-10</td><td><a href="https://www.sheldonhull.com/to-get-a-cup-of-coffee/">To Get a Cup of Coffee</a></td></tr>
 <tr><td>2022-06</td><td><a href="https://www.sheldonhull.com/check-azure-devops-pr-for-conventional-commit-title/">Check Azure Devops Pr for Conventional Commit Title</a></td></tr>
@@ -41,7 +42,6 @@ If you want to chat in a less public way, DM's are open on twitter.
 <tr><td>2022-01</td><td><a href="https://www.sheldonhull.com/pulumi-round-2/">Pulumi Round 2</a></td></tr>
 <tr><td>2021-12</td><td><a href="https://www.sheldonhull.com/helm-is-like-hugo/">Helm Is Like Hugo</a></td></tr>
 <tr><td>2021-12</td><td><a href="https://www.sheldonhull.com/go-r1-day-86/">Go R1 Day 86 - Wrap Up!</a></td></tr>
-<tr><td>2021-12</td><td><a href="https://www.sheldonhull.com/setup-sourcegraph-locally/">Setup Sourcegraph Locally</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
