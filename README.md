@@ -27,6 +27,7 @@ If you want to chat in a less public way, DM's are open on twitter.
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2023-10</td><td><a href="https://www.sheldonhull.com/leveled-up-with-truck-driving/">Leveled Up With Truck Driving</a></td></tr>
 <tr><td>2023-06</td><td><a href="https://www.sheldonhull.com/brain-noodles/">Brain Noodles</a></td></tr>
 <tr><td>2023-05</td><td><a href="https://www.sheldonhull.com/how-many-commits-did-you-make-in-last-month/">How Many Commits Did You Make in Last Month</a></td></tr>
 <tr><td>2023-04</td><td><a href="https://www.sheldonhull.com/refined-github/">Refined Github</a></td></tr>
@@ -41,7 +42,6 @@ If you want to chat in a less public way, DM's are open on twitter.
 <tr><td>2022-03</td><td><a href="https://www.sheldonhull.com/pulumi-secrets/">Pulumi Secrets</a></td></tr>
 <tr><td>2022-03</td><td><a href="https://www.sheldonhull.com/night-owl-for-slack/">Night Owl for Slack</a></td></tr>
 <tr><td>2022-03</td><td><a href="https://www.sheldonhull.com/go-templates-with-kubectl/">Go Templates With Kubectl</a></td></tr>
-<tr><td>2022-03</td><td><a href="https://www.sheldonhull.com/reflex-for-quick-filewatching-commands/">Reflex for Quick Filewatching Commands</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
