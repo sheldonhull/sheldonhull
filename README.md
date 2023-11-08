@@ -27,9 +27,11 @@ If you want to chat in a less public way, DM's are open on twitter.
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2023-11</td><td><a href="https://www.sheldonhull.com/an-unexpected-supporter-of-the-paris-sanitation-system/">An Unexpected Supporter of the Paris Sanitation System</a></td></tr>
 <tr><td>2023-11</td><td><a href="https://www.sheldonhull.com/new-york-first-visit/">New York - First Visit</a></td></tr>
 <tr><td>2023-11</td><td><a href="https://www.sheldonhull.com/region-and-language-defaults/">Region &amp; Language Defaults</a></td></tr>
 <tr><td>2023-10</td><td><a href="https://www.sheldonhull.com/leveled-up-with-truck-driving/">Leveled Up With Truck Driving</a></td></tr>
+<tr><td>2023-06</td><td><a href="https://www.sheldonhull.com/alexa-customization/">Alexa Customization</a></td></tr>
 <tr><td>2023-06</td><td><a href="https://www.sheldonhull.com/brain-noodles/">Brain Noodles</a></td></tr>
 <tr><td>2023-05</td><td><a href="https://www.sheldonhull.com/how-many-commits-did-you-make-in-last-month/">How Many Commits Did You Make in Last Month</a></td></tr>
 <tr><td>2023-04</td><td><a href="https://www.sheldonhull.com/refined-github/">Refined Github</a></td></tr>
@@ -40,8 +42,6 @@ If you want to chat in a less public way, DM's are open on twitter.
 <tr><td>2022-06</td><td><a href="https://www.sheldonhull.com/check-azure-devops-pr-for-conventional-commit-title/">Check Azure Devops Pr for Conventional Commit Title</a></td></tr>
 <tr><td>2022-04</td><td><a href="https://www.sheldonhull.com/the-pulumi-verdict-so-far/">The Pulumi Verdict So Far</a></td></tr>
 <tr><td>2022-03</td><td><a href="https://www.sheldonhull.com/using-randomization-for-pulumi-kubernetes-resources/">Using Randomization for Pulumi Kubernetes Resources</a></td></tr>
-<tr><td>2022-03</td><td><a href="https://www.sheldonhull.com/remove-pending-operations-from-pulumi-state/">Remove Pending Operations From Pulumi State</a></td></tr>
-<tr><td>2022-03</td><td><a href="https://www.sheldonhull.com/pulumi-secrets/">Pulumi Secrets</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
