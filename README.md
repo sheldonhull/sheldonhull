@@ -27,6 +27,7 @@ If you want to chat in a less public way, DM's are open on twitter.
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2023-11</td><td><a href="https://www.sheldonhull.com/first-week-in-paris/">First Week in Paris</a></td></tr>
 <tr><td>2023-11</td><td><a href="https://www.sheldonhull.com/ventilation-systems/">Ventilation Systems</a></td></tr>
 <tr><td>2023-11</td><td><a href="https://www.sheldonhull.com/an-unexpected-supporter-of-the-paris-sanitation-system/">An Unexpected Supporter of the Paris Sanitation System</a></td></tr>
 <tr><td>2023-11</td><td><a href="https://www.sheldonhull.com/new-york-first-visit/">New York - First Visit</a></td></tr>
@@ -41,7 +42,6 @@ If you want to chat in a less public way, DM's are open on twitter.
 <tr><td>2022-12</td><td><a href="https://www.sheldonhull.com/amply-repaid/">Amply Repaid</a></td></tr>
 <tr><td>2022-10</td><td><a href="https://www.sheldonhull.com/to-get-a-cup-of-coffee/">To Get a Cup of Coffee</a></td></tr>
 <tr><td>2022-06</td><td><a href="https://www.sheldonhull.com/check-azure-devops-pr-for-conventional-commit-title/">Check Azure Devops Pr for Conventional Commit Title</a></td></tr>
-<tr><td>2022-04</td><td><a href="https://www.sheldonhull.com/the-pulumi-verdict-so-far/">The Pulumi Verdict So Far</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
