@@ -27,6 +27,7 @@ If you want to chat in a less public way, DM's are open on twitter.
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2023-12</td><td><a href="https://www.sheldonhull.com/easiest-way-to-run-local-ai/">Easiest Way to Run Local Ai</a></td></tr>
 <tr><td>2023-11</td><td><a href="https://www.sheldonhull.com/st-michel-to-versailles/">St Michel to Versailles</a></td></tr>
 <tr><td>2023-11</td><td><a href="https://www.sheldonhull.com/differences-in-france-to-my-expectations/">Differences in France To My Expectations</a></td></tr>
 <tr><td>2023-11</td><td><a href="https://www.sheldonhull.com/parisian-rain-gluten-free-grains-and-basilica-lanes/">Parisian Rain, Gluten Free Grains, and Basilica Lanes</a></td></tr>
@@ -41,7 +42,6 @@ If you want to chat in a less public way, DM's are open on twitter.
 <tr><td>2023-06</td><td><a href="https://www.sheldonhull.com/alexa-customization/">Alexa Customization</a></td></tr>
 <tr><td>2023-06</td><td><a href="https://www.sheldonhull.com/brain-noodles/">Brain Noodles</a></td></tr>
 <tr><td>2023-05</td><td><a href="https://www.sheldonhull.com/how-many-commits-did-you-make-in-last-month/">How Many Commits Did You Make in Last Month</a></td></tr>
-<tr><td>2023-04</td><td><a href="https://www.sheldonhull.com/refined-github/">Refined Github</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
