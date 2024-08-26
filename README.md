@@ -27,6 +27,7 @@ If you want to chat in a less public way, DM's are open on twitter.
     <th>update</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
+<tr><td>2024-08</td><td><a href="https://www.sheldonhull.com/big-dreams-from-little-ones/">Big Dreams From Little Ones</a></td></tr>
 <tr><td>2024-06</td><td><a href="https://www.sheldonhull.com/automate-the-boring-stuff-with-ai-like-twitter-annoyances/">Automate the Boring Stuff With Ai Like Twitter Annoyances</a></td></tr>
 <tr><td>2024-05</td><td><a href="https://www.sheldonhull.com/the-technology-we-take-for-granted-is-pretty-amazing/">The Technology We Take for Granted Is Pretty Amazing</a></td></tr>
 <tr><td>2024-02</td><td><a href="https://www.sheldonhull.com/improve-language-matching-in-vscode/">Improve Language Matching in Vscode</a></td></tr>
@@ -41,7 +42,6 @@ If you want to chat in a less public way, DM's are open on twitter.
 <tr><td>2023-11</td><td><a href="https://www.sheldonhull.com/an-unexpected-supporter-of-the-paris-sanitation-system/">An Unexpected Supporter of the Paris Sanitation System</a></td></tr>
 <tr><td>2023-11</td><td><a href="https://www.sheldonhull.com/new-york-first-visit/">New York - First Visit</a></td></tr>
 <tr><td>2023-11</td><td><a href="https://www.sheldonhull.com/region-and-language-defaults/">Region &amp; Language Defaults</a></td></tr>
-<tr><td>2023-10</td><td><a href="https://www.sheldonhull.com/leveled-up-with-truck-driving/">Leveled Up With Truck Driving</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
