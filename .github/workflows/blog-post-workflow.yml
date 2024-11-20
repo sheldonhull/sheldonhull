@@ -16,7 +16,7 @@ jobs:
         with:
           #feed_list: "https://www.sheldonhull.com/index.xml,https://www.sheldonhull.com/microblog/index.xml,https://dev.to/feed/sheldonhull,https://stackoverflow.com/feeds/user/68698"
           #feed_list: "https://www.sheldonhull.com/index.xml,https://dev.to/feed/sheldonhull,https://stackoverflow.com/feeds/user/68698"
-          feed_list: 'https://www.sheldonhull.com/feed.xml'
+          feed_list: 'https://www.sheldonhull.com/index.xml'
           max_post_count: 15
           template: '<tr><td>$date</td><td><a href="$url">$title</a></td></tr>$newline'
           tag_post_pre_newline: true
