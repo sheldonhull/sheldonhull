@@ -2,7 +2,7 @@ module github.com/sheldonhull/sheldonhull
 
 go 1.17
 
-require github.com/charmbracelet/glamour v0.7.0
+require github.com/charmbracelet/glamour/v2 v2.0.1
 
 require (
 	github.com/alecthomas/chroma v0.10.0 // indirect
